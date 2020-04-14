@@ -1,3 +1,3 @@
 # Alexa
 
-Repositório para criação de uma skill para Amazon Alexa.
+Repositório para criação de uma Skill para Amazon Alexa.
